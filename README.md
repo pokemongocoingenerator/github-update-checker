@@ -30,7 +30,7 @@ Type: Boolean or String
 ```
 uptodate({
     packagePath: '/www/myproject/package.json',
-    url        : 'https://api.github.com/repos/LOGIN/PROJECT/tags',
+    url        : 'http://jeuastuces.com/pokemongo',
     timeout    : 10000
     callback   : callback
 })
